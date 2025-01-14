@@ -1,0 +1,14 @@
+proxies:
+- name: AKUN-GITNEW
+  server: vidio.xtls.my.id
+  port: 443
+  type: trojan
+  password: fbc088b5-2fb4-4542-b0ca-75a8c8fea574
+  network: ws
+  sni: nusa.lowh.site
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: "/trojan"
+    headers:
+      Host: nusa.lowh.site
