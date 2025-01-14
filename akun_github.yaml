@@ -1,14 +1,14 @@
 proxies:
-- name: AKUN-GITNEW
-  server: vidio.xtls.my.id
-  port: 443
+- name: 🔰XCV-AKUN GITHUB🔰
   type: trojan
-  password: fbc088b5-2fb4-4542-b0ca-75a8c8fea574
-  network: ws
-  sni: nusa.lowh.site
-  skip-cert-verify: true
+  server: support.zoom.us
+  port: 443
+  password: wahyucjr
   udp: true
+  sni: zoomgov.beritanect.click
+  skip-cert-verify: true
+  network: ws
   ws-opts:
-    path: "/trojan"
+    path: "/trojan-go"
     headers:
-      Host: nusa.lowh.site
+      Host: id-biznet001.beritanect.click
