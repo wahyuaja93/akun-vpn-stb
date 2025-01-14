@@ -1,5 +1,5 @@
 proxies:
-- name: 🔰XCV-AKUN GITHUB🔰
+- name: 🔰XCV-AKUN BACKUP🔰
   type: trojan
   server: support.zoom.us
   port: 443
